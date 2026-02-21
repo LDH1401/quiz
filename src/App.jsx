@@ -3,8 +3,7 @@ function App() {
   return (
     <div className="container">
       <h1>Quiz</h1>
-      <Quiz />
-      
+      <Quiz />  
     </div>
   )
 }
